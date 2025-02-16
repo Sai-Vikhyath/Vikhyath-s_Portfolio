@@ -14,3 +14,10 @@ Analytics Portfolio
 - **Pivot Tables**: Built pivot tables to explore relationships between *customer features, such as age, marital status, and job type*.
 - **Visualization**: Utilized **scatter plots, box plots, and pair plots** to visualize feature dependencies and distribution patterns.
 - **Marketing Strategy Optimization**: Provided data-driven insights to help plan more targeted and effective marketing campaigns for banking services.
+
+  ## *Project_3: [Global Covid-19 Analysis: Deaths, Cases and Vaccination Trends](https://github.com/Sai-Vikhyath/Global-Covid-19-Analysis/tree/main)*
+- **Covid-19 Data Analysis**: Worked on comprehensive analysis of global Covid-19 data, including total cases, deaths, and vaccination rates.
+- **Statistical Analysis**: Developed advanced queries to calculate death percentages, Covid infection rates relative to population, and vaccination rates.
+- **Data Integration**: Merged multiple datasets (CovidDeaths and CovidVaccinations) to assess the correlation between vaccination efforts and infection/death rates.
+- **Visualization Preparation**: Created views and temporary tables to facilitate easy extraction and visualization of key metrics, including rolling vaccination numbers and death rates by region and country.
+- **Database Optimization**: Utilized advanced SQL features such as window functions, SUM(), and PARTITION BY for optimized analysis.
