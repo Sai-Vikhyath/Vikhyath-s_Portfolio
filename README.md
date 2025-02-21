@@ -21,3 +21,5 @@ Analytics Portfolio
 - **Data Integration**: Merged multiple datasets (CovidDeaths and CovidVaccinations) to assess the correlation between vaccination efforts and infection/death rates.
 - **Visualization Preparation**: Created views and temporary tables to facilitate easy extraction and visualization of key metrics, including rolling vaccination numbers and death rates by region and country.
 - **Database Optimization**: Utilized advanced SQL features such as window functions, SUM(), and PARTITION BY for optimized analysis.
+- **Tableau Visualizations**: Designed interactive dashboards in Tableau to visualize global Covid-19 trends, including real-time case counts, vaccination progress, and regional differences in infection and death rates.
+- **Power BI Dashboard**: Developed a Power BI dashboard that integrated Covid-19 data, providing stakeholders with an interactive and detailed overview of infection rates, vaccination coverage, and death statistics, enabling data-driven decision-making.
